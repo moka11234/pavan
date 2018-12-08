@@ -1,1 +1,3 @@
-pavan is a good or not
+date
+hostname
+cal
